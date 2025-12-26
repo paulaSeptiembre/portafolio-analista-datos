@@ -11,7 +11,7 @@ Cada proyecto cuenta con su propio repositorio, código documentado y material e
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 |---------|-------------|-------------|--------|
-| Proyección de consumo | Análisis histórico y proyección de consumo con escenarios para planeación | Python, pandas, Excel | [Ver proyecto](URL_DEL_REPO) |
+| Proyección de consumo | Análisis histórico y proyección de consumo con escenarios para planeación | Python, pandas, Excel | [Ver proyecto](https://github.com/paulaSeptiembre/dashboadr--proyeccion--proteina) |
 | Servicios técnicos | Análisis operativo de servicios técnicos mediante un dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake hasta modelado analítico y visualización. | Azure Data Lake, Synapse, PySpark, Power BI | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--serviciosTecnicos) |
 |Control de asistencias RH | Análisis de asistencia y ausentismo mediante dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake y procesamiento en Synapse hasta modelado y visualización analítica para gestión de capital humano. | Azure Data Lake, Synapse, Power BI, Power Query | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--asistencia) |
  |

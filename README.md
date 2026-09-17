@@ -3,7 +3,7 @@
 Este repositorio funciona como portafolio de proyectos de **análisis de datos aplicados a necesidades reales de negocio**.  
 Los proyectos incluyen análisis exploratorio, definición de KPIs, automatización de reportes, dashboards y modelos de proyección, desarrollados con enfoque técnico y orientación a la toma de decisiones.
 
-Cada proyecto cuenta con su propio repositorio, código documentado y material explicativo en formato PDF.
+Cada proyecto cuenta con su propio repositorio, código documentado y una explicación clara del problema, el enfoque y los resultados.
 
 ---
 
@@ -13,8 +13,8 @@ Cada proyecto cuenta con su propio repositorio, código documentado y material e
 |---------|-------------|-------------|--------|
 | Proyección de consumo | Análisis histórico y proyección de consumo con escenarios para planeación | Python, pandas, Excel | [Ver proyecto](https://github.com/paulaSeptiembre/dashboadr--proyeccion--proteina) |
 | Servicios técnicos | Análisis operativo de servicios técnicos mediante un dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake hasta modelado analítico y visualización. | Azure Data Lake, Synapse, PySpark, Power BI | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--serviciosTecnicos) |
-|Control de asistencias RH | Análisis de asistencia y ausentismo mediante dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake y procesamiento en Synapse hasta modelado y visualización analítica para gestión de capital humano. | Azure Data Lake, Synapse, Power BI, Power Query | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--asistencia) |
- |
+| Control de asistencias RH | Análisis de asistencia y ausentismo mediante un dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake y procesamiento en Synapse hasta modelado y visualización para gestión de capital humano. | Azure Data Lake, Synapse, Power BI, Power Query | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--asistencia) |
+| Morosidad y antigüedad de clientes | Segmentación de riesgo de cartera por antigüedad, actividad de compra y Pareto 80/20; incluye correlación point-biserial y prueba de permutación. | Python, CSV, JSON | [Ver proyecto](https://github.com/paulaSeptiembre/morosidad-antiguedad-clientes) |
 
 ---
 
@@ -40,11 +40,10 @@ Este portafolio está orientado a:
 
 ## Tecnologías utilizadas
 
-Python · SQL · Excel · Power BI · 
+Python · SQL · Excel · Power BI · Azure · Synapse · PySpark · DAX
 
 ---
 
 ### Nota
 
 Este portafolio se encuentra en evolución continua y se actualiza conforme se desarrollan nuevos proyectos y mejoras.
-

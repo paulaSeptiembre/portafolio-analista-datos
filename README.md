@@ -15,6 +15,7 @@ Cada proyecto cuenta con su propio repositorio, código documentado y una explic
 | Servicios técnicos | Análisis operativo de servicios técnicos mediante un dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake hasta modelado analítico y visualización. | Azure Data Lake, Synapse, PySpark, Power BI | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--serviciosTecnicos) |
 | Control de asistencias RH | Análisis de asistencia y ausentismo mediante un dashboard construido sobre un flujo de datos empresarial simulado en Azure, desde ingesta en Data Lake y procesamiento en Synapse hasta modelado y visualización para gestión de capital humano. | Azure Data Lake, Synapse, Power BI, Power Query | [Ver proyecto](https://github.com/paulaSeptiembre/dashboard--asistencia) |
 | Morosidad y antigüedad de clientes | Segmentación de riesgo de cartera por antigüedad, actividad de compra y Pareto 80/20; incluye correlación point-biserial y prueba de permutación. | Python, CSV, JSON | [Ver proyecto](https://github.com/paulaSeptiembre/morosidad-antiguedad-clientes) |
+| Casos de análisis del diplomado | Casos académicos de retención, segmentación de clientes, COVID-19 y telecomunicaciones; documentan preguntas de negocio y enfoques reproducibles sin exponer datos fuente. | BigQuery, SQL, Power BI, Excel | [Ver casos](proyectos-diplomado/README.md) |
 
 ---
 
